@@ -1,1 +1,1 @@
-system development
+“etc passwd and host file”

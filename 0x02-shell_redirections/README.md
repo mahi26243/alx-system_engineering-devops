@@ -1,1 +1,1 @@
-“etc passwd file”
+“etc passwd and host file”
