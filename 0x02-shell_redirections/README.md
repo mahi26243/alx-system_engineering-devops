@@ -1,1 +1,1 @@
-“lines of file”
+“first one”
