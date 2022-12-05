@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n 3 file_2
+head -n 3 file_2 | tail -n 1
