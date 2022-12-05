@@ -1,1 +1,1 @@
-“etc passwd and host file”
+“lines of file”
