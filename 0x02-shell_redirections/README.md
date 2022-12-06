@@ -1,1 +1,1 @@
-“script that counts the number”
+“displays the 10 newest files”
