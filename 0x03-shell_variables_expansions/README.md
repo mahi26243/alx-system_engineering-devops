@@ -1,1 +1,1 @@
-trueknowledge
+divde rule
