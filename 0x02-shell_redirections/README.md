@@ -1,1 +1,1 @@
-“current directory script”
+“duplicates”
