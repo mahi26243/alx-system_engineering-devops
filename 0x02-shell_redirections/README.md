@@ -1,1 +1,1 @@
-“empty files and directories”
+“extension”
