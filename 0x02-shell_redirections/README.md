@@ -1,1 +1,1 @@
-“do not contain the pattern”
+“letter”
