@@ -1,1 +1,1 @@
-“iacta”
+“best school”
