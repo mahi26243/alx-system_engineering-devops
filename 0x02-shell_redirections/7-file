@@ -1,2 +1,8 @@
 #!/bin/bash
-echo "best school" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+touch -- "$(<< '.'
+
+\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+
+.
+
+)"
