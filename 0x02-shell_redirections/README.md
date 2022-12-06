@@ -1,1 +1,1 @@
-“delete script”
+“script that counts the number”
