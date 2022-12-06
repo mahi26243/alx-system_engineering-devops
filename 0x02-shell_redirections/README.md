@@ -1,1 +1,1 @@
-“empty”
+“gif extension”
