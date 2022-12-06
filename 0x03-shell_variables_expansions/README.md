@@ -1,1 +1,1 @@
-local
+global
