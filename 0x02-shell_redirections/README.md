@@ -1,1 +1,1 @@
-“lines containing the pattern”
+“bin”
