@@ -1,1 +1,1 @@
-“duplicates”
+“delete script”
