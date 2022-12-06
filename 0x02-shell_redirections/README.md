@@ -1,1 +1,1 @@
-“characters”
+“removes all letters”
