@@ -1,1 +1,1 @@
-“best school”
+“current directory script”
