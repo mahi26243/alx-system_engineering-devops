@@ -1,1 +1,1 @@
-“ list of words”
+“lines containing the pattern”
