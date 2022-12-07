@@ -1,1 +1,1 @@
-decimal
+encodes and decodes text
